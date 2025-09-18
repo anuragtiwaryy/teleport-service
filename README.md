@@ -31,8 +31,7 @@ Key Features:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-repo>/tracking-number-api.git
-cd tracking-number-api
+git clone https://github.com/<your-repo>/tracking-number-api.git](https://github.com/anuragtiwaryy/teleport-service.git
 ```
 
 ### 2. Configure application
